@@ -1,0 +1,3 @@
+[submodule "mapa-inversiones"]
+	path = mapa-inversiones
+	url = git@github.com:ferme1992/mapa-inversiones.git
