@@ -1,5 +1,19 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_data-repository-Mapainversiones&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=EL-BID_data-repository-Mapainversiones)
 
+# MapaInversiones PS2 - Team 1
+
+El proyecto trabajado se incluyó como un submodulo de este proyecto para que los interesados puedan tener contexto sobre la solución. El readme de la solución trabajada se incluye aquí:
+[Enlace al submodulo](https://github.com/ferme1992/mapa-inversiones/tree/dbc65c3988e767985bcc2a7f3b69efd74db4f430)
+
+Para inicializar el proyecto haga:
+
+```bash
+cd mapa-inversiones/
+```
+Y siga las instrucciones en el readme del submodulo.
+
+# data-Mapainversiones
+MapaInversiones es una plataforma que fomenta la transparencia del gasto, las inversiones y las contrataciones públicas en América Latina y el Caribe mediante la integración y visualización de datos públicos. Las diferentes instancias de MapaInversiones implementadas en los países generan conjuntos de datos abiertos para que los ciudadanos y organizaciones interesadas puedan realizar sus análisis propios basados en esta información. Este repositorio en https://github.com/EL-BID/data-Mapainversiones es una capacidad de la solución que permite acceder y descargar de manera agrupada los conjuntos de datos abiertos de las plataformas de los países relacionados.
 
 # data-Mapainversiones
 MapaInversiones es una plataforma que fomenta la transparencia del gasto, las inversiones y las contrataciones públicas en América Latina y el Caribe mediante la integración y visualización de datos públicos. Las diferentes instancias de MapaInversiones implementadas en los países generan conjuntos de datos abiertos para que los ciudadanos y organizaciones interesadas puedan realizar sus análisis propios basados en esta información. Este repositorio en https://github.com/EL-BID/data-Mapainversiones es una capacidad de la solución que permite acceder y descargar de manera agrupada los conjuntos de datos abiertos de las plataformas de los países relacionados.
